@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My statistics:
+![m0uka](https://github-readme-stats.vercel.app/api?username=m0uka&count_private=true)
+
 <!--
 **m0uka/m0uka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
