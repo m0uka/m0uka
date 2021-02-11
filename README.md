@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am Lukas, an aspiring freelance developer and entrepreneur.
-My current roles:
+My current roles are:
 - 🌀 Creator of [VoidStudios](https://github.com/VoidTeam1)
 - 🍣 Developer for Sushi Roleplay
 - 🌴 Creator of Paradise Studios
