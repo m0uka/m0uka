@@ -5,6 +5,7 @@ My current roles are:
 - 🍣 Developer for Sushi Roleplay
 - 🌴 Creator of Paradise Studios
 - 🛒 Content Creator at [gmodstore](https://gmodstore.com/users/m0uka)
+- 🖥️ Owner of [ParadiseHost](https://paradisehost.cz)
 
 <!--
 **m0uka/m0uka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
