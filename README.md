@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Lukas, an aspiring freelance developer and entrepreneur.
+I am Lukas, an aspiring entrepreneur and freelance developer.
 My current roles are:
 - 🌀 Creator of [VoidStudios](https://github.com/VoidTeam1)
 - 🍣 Developer for Sushi Roleplay
