@@ -1,10 +1,14 @@
 ### Hi there 👋
-I am Lukas, an aspiring entrepreneur and freelance developer.
-My current roles are:
-- 🌀 Creator of [VoidStudios](https://github.com/VoidTeam1)
-- 🍣 Developer for Sushi Roleplay
-- 🌴 Creator of Paradise Studios
-- 🛒 Content Creator at [gmodstore](https://gmodstore.com/users/m0uka)
+I am Lukas, an aspiring entrepreneur and freelance developer.  
+Currently I work on Garry's Mod addons and web projects.
+
+### Skills
+**Languages:** C#, Lua, TypeScript, JavaScript, PHP, SQL, HTML/CSS
+**Frameworks:** ASP.NET Core, Vue, NuxtJS, Tailwind CSS
+**Technologies:** MySQL, MongoDB, Redis, RabbitMQ
+
+### Interested in working with me? 
+Hit me up on Discord: m0uka#0001, or send me an email, so we can discuss it 😎
 
 <!--
 **m0uka/m0uka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
