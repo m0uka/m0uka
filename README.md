@@ -1,11 +1,11 @@
 ### Hi there 👋
 I am Lukas, an aspiring entrepreneur and freelance developer.  
-Currently I work on Garry's Mod addons and web projects.
+Currently I work on Garry's Mod addons and web projects.  
 
 ### Skills
-**Languages:** C#, Lua, TypeScript, JavaScript, PHP, SQL, HTML/CSS
-**Frameworks:** ASP.NET Core, Vue, NuxtJS, Tailwind CSS
-**Technologies:** MySQL, MongoDB, Redis, RabbitMQ
+**Languages:** C#, Lua, TypeScript, JavaScript, PHP, SQL, HTML/CSS  
+**Frameworks:** ASP.NET Core, Vue, NuxtJS, Tailwind CSS  
+**Technologies:** MySQL, MongoDB, Redis, RabbitMQ  
 
 ### Interested in working with me? 
 Hit me up on Discord: m0uka#0001, or send me an email, so we can discuss it 😎
