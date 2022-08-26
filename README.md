@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Lukas, an aspiring entrepreneur and freelance developer.  
+I am Lukas, an entrepreneur and a freelance developer.  
 Currently I work on Garry's Mod addons and web projects.  
 
 ### Interested in working with me? 
