@@ -1,6 +1,5 @@
 ### Hi there 👋
-I am Lukas, an entrepreneur and a freelance developer.  
-Currently I work on Garry's Mod addons and web projects.  
+I am Lukas, an entrepreneur and a full-stack developer.  
 
 ### Interested in working with me? 
 Hit me up on Discord: m0uka#0001, or send me an email, so we can discuss it 😎
